@@ -24,3 +24,11 @@ Observations:
  - Products with promotion sells faster, most of the sales comes from promotion. Promotion is the key driver for online sales irrespective of which day it runs.Our data mostly on Apparel, festivals or any other auspicious day coming ahead might also be the driver of sales.Sale peaked in first week of May due to great summer sale event by Amazon.
  - Average Returns are 10.5% with minimum and maximum of 8%, 14.8% respectively.
 Returns are high on second week of May month with 14.8%, week after peak sales or summer sale promotion.
+
+
+Tableau Link for the Interactive Dashboard:
+https://public.tableau.com/views/AmazonIndiaApparelSalesQ22/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
+
+
+
+
