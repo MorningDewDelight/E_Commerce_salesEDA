@@ -18,7 +18,7 @@ Observations:
  - Month of April has higher sales, even though big sale event happened (great summer sale) in May.
  - Our sale value data is right skewed, it ranges from 0 to INR 5584, whereas 75% of our sale values are within INR 788.
  - Most of the sales are coming from Set,Kurta and Western dress.
- - We have datapoints in all the different sizes, Most common sizes are Medium,Large and Xtra Large.
+ - We have data points in all the different sizes, Most common sizes are Medium,Large and Xtra Large.
  - 69% of sales order fulfilled by Amazon, 31% done by Merchants.
  - There is no particular trend in sales in weekdays or weekends.Throughout Q2 sales differs for all days.
  - Products with promotion sells faster, most of the sales comes from promotion. Promotion is the key driver for online sales irrespective of which day it runs.Our data mostly on Apparel, festivals or any other auspicious day coming ahead might also be the driver of sales.Sale peaked in first week of May due to great summer sale event by Amazon.
@@ -27,7 +27,7 @@ Returns are high on second week of May month with 14.8%, week after peak sales o
  - Orders fulfilled by Amazon returns are in 7.4%, whereas by Merchant its stands at 23.2%
 
 
-Tableau Link for the Interactive Dashboard:
+## Tableau Link for the Interactive Dashboard:
 https://public.tableau.com/views/AmazonIndiaApparelSalesQ22/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
 
 
