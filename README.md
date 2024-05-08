@@ -28,7 +28,7 @@ Returns are high on second week of May month with 14.8%, week after peak sales o
 
 
 ## Tableau Link for the Interactive Dashboard:
-https://public.tableau.com/views/AmazonIndiaApparelSalesQ22/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/views/AmazonIndiaApparelSalesQ2-22/Dashboard2?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
 
 
 
